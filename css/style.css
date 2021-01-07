@@ -195,7 +195,7 @@ button{
 
 
 .sec-title h1 b{
-    color: #e46e48;
+    color: #2c9c32;
     font-weight: 900;
     font-family: 'Source Sans Pro', sans-serif;
 }
@@ -576,7 +576,7 @@ select:focus {
 .mainmenu-area {
     position: relative;
     z-index: 999999;
-    background: #127EB5;
+    background:  #2c9c32;
 }
 .main-menu {
     float: left;
@@ -951,7 +951,7 @@ select:focus {
 }
 .call-to-action-area .single-callto-action-item .icon-holder span::before {
     font-size: 30px;
-    color: #e46e48;
+    color: #2c9c32;
     line-height: 30px;
     font-weight: 700;
     transition: all 500ms ease 0s;
@@ -967,8 +967,8 @@ select:focus {
     margin: 0;
 }
 .call-to-action-area .single-callto-action-item:hover .icon-holder{
-    background: #e46e48;
-    border: 1px solid #e46e48;
+    background: #2c9c32;
+    border: 1px solid #2c9c32;
 }
 .call-to-action-area .single-callto-action-item:hover .icon-holder span::before{
     color: #fff;
