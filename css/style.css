@@ -148,7 +148,7 @@ button{
     padding: 11px 30px 11px;
     text-align: center;
     z-index: 1;
-    background: #e46e48; 
+    background: #2c9c32; 
     color: #ffffff;
 }
 .thm-btn:hover{
@@ -1270,7 +1270,7 @@ select:focus {
     height: 270px;
     margin: 0 auto;
     background: #ffffff;
-    border: 3px solid #e46e48;
+    border: 3px solid #2c9c32;
     padding: 65px 0;
 }
 .fact-counter-area .single-item .icon-holder {
@@ -1280,10 +1280,10 @@ select:focus {
 .fact-counter-area .single-item .icon-holder span:before{
     font-size: 40px;
     line-height: 40px;
-    color: #e46e48;
+    color: #2c9c32;
 }
 .fact-counter-area .single-item h1 span{
-    color: #e46e48;
+    color: #2c9c32;
     font-size: 40px;
     font-weight: 700;
 }
@@ -1466,12 +1466,12 @@ select:focus {
     transition: all 500ms ease;
 }
 .accordion-box .accordion .accord-btn.active h4 {
-    color: #e46e48;
+    color: #2c9c32;
 }
 .accordion-box .accordion .accord-btn.active:after{
     content: "\f100";
-    border: 2px solid #e46e48;
-    color: #e46e48;
+    border: 2px solid #2c9c32;
+    color: #2c9c32;
     background: transparent;
 }
 .accordion-box .accordion .accord-content {
@@ -1480,7 +1480,7 @@ select:focus {
     position: relative;
     border-bottom: 0px solid #ededed;
     background: #f7f7f7;
-    border-left: 5px solid #e46e48;
+    border-left: 5px solid #2c9c32;
 }
 .accordion-box .accordion .accord-content.collapsed {
     display: block;
@@ -1670,7 +1670,7 @@ select:focus {
 =============================================
 ***/
 .slogan-area {
-    background: #e46e48;
+    background: #2c9c32;
     padding-top: 40px;
     padding-bottom: 40px;
 }
@@ -1942,7 +1942,7 @@ select:focus {
 }
 .single-footer-widget .newsletter-form form button {
     margin-top: 10px;
-    background: #E46E48;
+    background: #2c9c32;
     color: #ffffff;
     display: block;
     height: 45px;
@@ -1953,7 +1953,7 @@ select:focus {
     font-weight: 400;
     text-transform: uppercase;
     border-radius: 0px;
-    border: 2px solid #E46E48;
+    border: 2px solid #2c9c32;
     padding: 0;
     line-height: 36px;
 }
