@@ -209,7 +209,7 @@ button{
 
 
 /*________________Preloader_______________ */
-.preloader{ 
+/*.preloader{ 
     position:fixed; 
     left:0px; 
     top:0px; 
@@ -220,7 +220,7 @@ button{
     background-position:center center; 
     background-repeat:no-repeat; 
     background-image:url(../images/icon/chs.gif);
-}
+}*/
 
 
 /* Update Mainmenu area Style */
